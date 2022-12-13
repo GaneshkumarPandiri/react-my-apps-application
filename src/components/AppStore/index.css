@@ -1,0 +1,40 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+}
+.app-container {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.app-heading {
+  margin-bottom: 35px;
+  font-family: Bree Serif;
+}
+.search-style {
+  height: 30px;
+  width: 200px;
+  border-radius: 10px;
+  background-color: #fff1eb;
+  font-family: roboto;
+  padding: 10px;
+}
+.search-content {
+  display: flex;
+}
+.icon-style {
+  height: 28px;
+  width: 28px;
+}
+.list-container {
+  display: flex;
+  font-family: roboto;
+  margin-top: 25px;
+}
+.list-container-app {
+  display: flex;
+  flex-wrap: wrap;
+}

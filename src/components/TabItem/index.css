@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-style {
+  list-style-type: none;
+  margin: 15px;
+
+  padding: 10px;
+}
+.active-tab-style {
+  color: #2563eb;
+  border-bottom: 3px solid #2563eb;
+}
+.button-style {
+  color: #7b8794;
+  border: none;
+  background-color: transparent;
+  font-family: Roboto;
+  font-weight: bolder;
+  font-size: large;
+}
